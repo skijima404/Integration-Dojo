@@ -48,6 +48,9 @@ API Gatewayとはそもそも何かという解説。
 [Apache Kafka is NOT Hard Real Time BUT Used Everywhere in Automotive and Industrial IoT](https://www.kai-waehner.de/blog/2021/01/04/apache-kafka-is-not-hard-real-time-industrial-iot-embedded-connected-vehicles-automotive/)
 ハードリアルタイムでは利用できないものの、ほとんどの「リアルタイム」要件はソフトリアルタイムあるいはニアリアルタイムのため、Kafkaはほとんどのユースケースで利用できることを解説したもの。
 
+[DBへの変更をイベントストリームに変換する](https://rheb.hatenablog.com/entry/debezium-intro)
+Debezium (Change Data Capture) の概要。動作確認のハンズオンの手順が書かれていますが、アプリケーションコードに変更を加えることなく、コネクタの設定だけで動作することが手順的にわかるように表現されています。
+
 ### サービスメッシュ
 
 [サービスメッシュについて理解する (日本語)](https://dev.classmethod.jp/articles/servicemesh/)
